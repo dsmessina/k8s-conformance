@@ -18,13 +18,13 @@ By signing below and submitting this form to The Linux Foundation (by [DocuSign]
 
 
 Company / entity name:
-
+Docker, Inc. 
 \___________________________________________________
 
 Contact address:
-
+144 Townsend Street
 \___________________________________________________
-
+San Francisco, CA 94107
 \___________________________________________________
 
 \___________________________________________________
@@ -32,30 +32,30 @@ Contact address:
 \___________________________________________________
 
 Contact telephone:
-
+415-225-6991
 \___________________________________________________
 
 Contact email:
-
-\___________________________________________________
+david@docker.com
+\__________________________________________________
 
 
 Select one:
 
- - [ ] Participant is a member of CNCF.
+ - [X ] Participant is a member of CNCF.
  - [ ] Participant is a non-profit organization.
  - [ ] Neither of the above. **Please contact CNCF to discuss fees for participation in the Conformance Program.**
 
 #### Qualifying Offerings
 
 Name, brief description and URLs for more information:
-
+Docker EE is the enterprise container management and security platform for the entire container lifecycle. By adding Kubernetes support, IT teams get more options for container scheduling and orchestration. The next version of Docker EE will set up a single environment with both Swarm and Kubernetes on the same cluster and provide choice of orchestrator at deployment time. All applications on Docker EE benefit from the single, secure software supply chain and secure-by-default cluster architecture.
 \___________________________________________________________________________
 
 \___________________________________________________________________________
 
 \___________________________________________________________________________
-
+https://www.docker.com/kubernetes
 \___________________________________________________________________________
 
 
@@ -64,7 +64,7 @@ Name, brief description and URLs for more information:
 List all Participant Kubernetes Combinations to be used with the Qualifying Offerings, if any:
 
 (for example, "XYZ Kubernetes" or "XYZ Kubernetes Platform")
-
+Docker Enterprise Edition
 \___________________________________________________________________________
 
 \___________________________________________________________________________
@@ -76,19 +76,19 @@ List all Participant Kubernetes Combinations to be used with the Qualifying Offe
 
 #### Conformance Details
 
-Initial Version of Kubernetes for Conformance (e.g., v1.8): _______
+Initial Version of Kubernetes for Conformance (e.g., v1.8): ______v1.8_
 
-Conformance Date: __________________
+Conformance Date: __________11/3/2017________
 
 
 #### Signed on behalf of Participant by:
 
 ```
-Signature: __________________________________
+Signature: ___David Messina____________________________
 
-Name:      __________________________________
+Name:      _David Messina_________________________________
 
-Title:     __________________________________
+Title:     ___CMO_______________________________
 
-Date:      __________________________________
+Date:      ______11/7/2017____________________________
 ```
